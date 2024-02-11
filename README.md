@@ -1,10 +1,11 @@
 <br>
 
-> [!NOTE] Alguns pontos antes de entender
+> **Nota:** Alguns pontos antes de entender
+> 
 > Escopo: O código que estiver com indentação, ou seja que tenha um espaçamento no começo, é um Escopo.
 > 
 > Bloco: O código que estiver entre chaves `{}`, é um bloco.
-> 
+>
 > Output: quando tiver `Output` comentado, é a saída pois não consegui o plugin de executar aqui nesse arquivo ent fds.
 
 
