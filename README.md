@@ -66,7 +66,7 @@ console.log(pika2)
 // output: error: pika2 is not defined.
 ```
 
-#### Esse exemplo mostra que a variável pika e pika2 do tipo `let` estão dentro de blocos diferentes, portanto para que o `console.log()` funcione, ele precisa estar dentro do mesmo bloco `{}`, caso contrário não vai retornar erro.
+#### Esse exemplo mostra que a variável pika e pika2 do tipo `let` estão dentro de blocos diferentes, portanto para que o `console.log()` funcione, ele precisa estar dentro do mesmo bloco `{}`, caso contrário vai retornar erro.
 
 <br>
 
